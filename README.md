@@ -3,13 +3,13 @@ Welcome to my portfolio website! This site is a showcase of my work, skills, and
 
 
 **Features**
-Home Page: A brief introduction to who I am and what I do, along with highlights of my key projects and skills.
-Contact Page: A straightforward way to get in touch with me through a contact form.
+-**Home Page**: A brief introduction to who I am and what I do, along with highlights of my key projects and skills.
+-**Contact Page**: A straightforward way to get in touch with me through a contact form.
 
 
 **Technologies Used**
-HTML: For structuring the content of the website.
-CSS: For styling and layout to create a visually appealing design.
+-**HTML**: For structuring the content of the website.
+-**CSS**: For styling and layout to create a visually appealing design.
 
 
 **Usage**
