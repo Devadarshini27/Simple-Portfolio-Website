@@ -11,6 +11,9 @@ Welcome to my portfolio website! This site is a showcase of my work, skills, and
 -**HTML**: For structuring the content of the website.
 -**CSS**: For styling and layout to create a visually appealing design.
 
+**How to view**
+Check it out here: https://devadarshini27.github.io/Simple-Portfolio-Website/
+
 
 **Usage**
 Feel free to explore the website to learn more about my work and to get in touch with me. You can clone or download this repository to view the source code and customize it as you like.
